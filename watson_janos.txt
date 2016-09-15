@@ -67,7 +67,7 @@ Chaotic - Use a Gadget in a new and surprising way.
 
 //GADGETS
 
-- Electrical Beam Glove (Elemental Electric)
+- Electrical Beam Glove (Far, Elemental Electric)
 
 - Steam Propulsion Boots (Alternate Movement Jumping)
 
