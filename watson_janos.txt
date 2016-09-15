@@ -25,6 +25,8 @@ LOAD: 	8/17 (9+STR)
 XP: 	0
 LEVEL: 	1
 
+CHARGE: 3
+
 //LOOK
 
 Devious eyes, frizzy hair, burnt skin
