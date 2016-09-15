@@ -29,7 +29,7 @@ CHARGE: 3
 
 //LOOK
 
-Devious eyes, frizzy hair, burnt skin
+Curious eyes, frizzy hair, burnt skin
 
 //RACE
 
