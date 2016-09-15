@@ -8,12 +8,14 @@ Watson Janos
 
 //STATS
 
-STR:  8
-DEX: 13
-CON:  9
-INT: 16
-WIS: 15
-CHA: 12
+STAT | VALUE | MODIFIER
+
+STR:  8 | -1
+DEX: 13 | +1
+CON:  9 | +0
+INT: 16 | +2
+WIS: 15 | +1
+CHA: 12 | +0
 
 HP: 13
 DAMAGE: D8
