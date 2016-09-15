@@ -17,12 +17,12 @@ INT: 16 | +2
 WIS: 15 | +1
 CHA: 12 | +0
 
-HP: 13
+HP: 	13
 DAMAGE: D8
-ARMOR: 1
-LOAD: 8/17 (9+STR)
-XP: 0
-LEVEL: 1
+ARMOR: 	1
+LOAD: 	8/17 (9+STR)
+XP: 	0
+LEVEL: 	1
 
 //LOOK
 
