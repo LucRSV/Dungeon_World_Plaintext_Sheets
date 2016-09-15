@@ -1,0 +1,263 @@
+########## STARTING MOVES ##########
+
+
+---------------
+Gadget Belt
+---------------
+
+You have a Gadget Belt containing 3 Arcane Gadgets. All Gadgets are 1 weight and have a
+Range tag, if appropriate. For each Gadget you own, pick one from each list:
+
+   • Electrical, Magnetic, Cryogenic, Ectoplasmic, Steam, Pyromatic, Clockwork, Alchemic
+
+   • Beam, Propulsion, Emitter, Field, Shielding, Defuser, Amplification, Explosion, Reversal
+
+   • Glove, Torch, Device, Belt, Flasks, Goggles, Rod, Cannon, Boots, Golem, Trinkets, Suit
+
+   • Piercing 2, Forceful, +2 Armor vs ___, Alternate movement (___), Elemental (___)
+
+When you take a short break to recharge and fine-tune your Gadgets, set your Charge
+to 3. This Charge is used to power your Gadgets.
+
+When you use one of your Gadgets as a Weapon, you can spend 1-Charge to roll +INT
+instead of +STR or +DEX. When you use one of your Gadgets to Volley, if you would
+mark ammo, spend 1-Charge instead.
+
+When you have less than three gadgets or want to replace one of your existing gadgets
+for any reason, you can make a replacement by spending a day or so in a workshop.
+
+---------------
+Field Test (INT)
+---------------
+
+When you use one of your Gadgets to get out of a tight spot, describe what it does and
+roll +INT. On a hit, it works as expected, but choose 1. On a 7-9, choose 2 instead:
+
+   • The Gadget's effects won't last long - you'll need to hurry to take advantage of it.
+
+   • The Gadget draws unwanted attention or puts someone in a spot.
+
+   • The Gadget is damaged. You can repair it, but it will take some time and concentration.
+
+   • The Gadget drains your reserves - spend 1 Charge.
+
+---------------
+Jury-Rig (INT)
+---------------
+
+When you quickly fix, repurpose, or fabricate a device on the spot, describe what you're
+doing with it and roll +INT. On a 10+, it'll hold together just as long as you need it to.
+On a 7-9, choose one:
+
+   • It'll work, but not for long. You'll need to hurry to take advantage of it.
+
+   • It works, but there's a weird quirk or complication to it.
+
+   • It'll work, but it needs some juice. Spend 1 Charge.
+
+---------------
+Let Me See That
+---------------
+
+When you take a few moments to handle or examine something interesting, ask the
+GM two of the following questions. The GM must answer truthfully.
+
+   • What does this do?
+
+   • Who made this?
+
+   • What’s wrong with this, and how might I fix it?
+
+   • What has been done most recently with this, or to this?
+
+
+
+########## ADVANCED MOVES (2-5) ##########
+
+
+
+---------------
+Carrying Harness
+---------------
+
+You affix mechanical tools, plates, chains, and flippy gizmos to yourself.
+Everything you carry is attached to you, and you can never drop anything
+or be disarmed without your consent. You also gain +5 Load.
+
+---------------
+Construct Champion
+---------------
+
+You have crafted a mechanical companion. Choose a specialization:
+
+• Assistant: Your construct will always give you whatever you need the
+  moment you need it, if it's somewhere he can get it for you. You never
+  need to reload or dig through your pouches in a tight spot.
+
+• Guard: You take +1 ongoing when you Defend.
+
+• Research: You take +1 ongoing to Spout Lore.
+
+• Scout: When you Undertake a Perilous Journey, you can take 2 jobs for
+  the exploration.
+
+You only get the bonus provided by your Construct Companion while it
+is within arm's reach of you. When your Companion is destroyed, you
+can rebuild it in a couple of days.
+
+---------------
+Eureka! I've Got it!
+---------------
+
+When you roll a 12+ on Field Test, your Gadget defies expectations, its
+effects going above and beyond what your theories predicted. Choose
+nothing from the list.
+
+---------------
+Etheric Field
+---------------
+
+You have a portable, energized force field of your own design. When
+you hold at least 1-Charge, you have +1 Armor.
+
+---------------
+Gadgeteer
+---------------
+
+Add 2 more Gadgets to your Gadget Belt. When you have less than five
+gadgets or want to replace one of your existing gadgets for any reason,
+you can make a replacement by spending an hour or so in a workshop.
+
+---------------
+It's Too Dangerous To Go Alone
+---------------
+
+When you Aid an ally, you can spend 1-Charge and give them one of your
+Gadgets to automatically succeed on the Aid roll. Explain how your Gadget
+helps them out.
+
+---------------
+Logical
+---------------
+
+When you use strict deduction to analyze your surroundings, you can
+Discern Realities with +INT instead of +WIS.
+
+---------------
+Overload
+---------------
+
+When you use a Gadget as a weapon, you may choose to deal +1d6 damage
+with it. If you do, either spend 1 Charge or the Gadget is damaged - you can
+repair it, but it will take some time and concentration.
+
+---------------
+Rocket Man
+---------------
+
+When you need to be somewhere really quickly, roll +DEX. On a hit, you
+are there the moment before you need to be. On a 7-9, also choose one:
+
+• You needed a burst of speed to get there in time - spend 1 Charge.
+
+• Your reckless charge puts you in a tight spot.
+
+---------------
+Worldly
+---------------
+
+Gain one move from a playbook no one else is currently using.
+
+
+
+########### ADVANCED MOVES (6-10) ###########
+
+
+
+---------------
+A Little Something I Picked Up
+---------------
+
+Gain one non-multiclass move from the Thief, Mage, or Wizard class list.
+
+---------------
+Forcefield Upgrade
+---------------
+
+* Replaces: Etheric Fielid
+You have +Armor equal to your held Charge.
+
+---------------
+Highly Logical
+---------------
+
+* Replaces: Logical
+When you use strict deduction to analyze your surroundings, you can
+Discern Realities with +INT instead of +WIS. On a 12+, you get to ask the
+GM any three questions, not limited by the list.
+
+---------------
+I'll Make My Own Friends
+---------------
+
+When you spend some downtime assembling a robotic hireling, roll +INT.
+On a 10+, it has +3 Loyalty and 5 points worth of skills, divided as you see fit.
+On a 7-9, it has +2 Loyalty and 3 points worth of skills, divided as you see fit.
+On a miss, it has +1 Loyalty and 1 point in a skill of the GM's choosing. In any
+case, your new hireling has "Cost: Regular repairs and fine-tuning."
+
+---------------
+Increased Voltage
+---------------
+
+You can draw out more juice in a pinch. When a move requires you to spend
+1-Charge while you have none, you may damage any one of your Gadgets to
+gain 2-Charge. You can repair it, but it will take some time and concentration.
+
+---------------
+Maximum Overload
+---------------
+
+* Requires: Overload
+When you use a Gadget as a weapon, you may spend 1-Charge to deal
++3d6 damage with it. If you do, the Gadget is damaged - you can repair it,
+but it will take some time and concentration.
+
+---------------
+Old Construct, New Tricks
+---------------
+
+* Requires: Construct Companion
+You have improved your old Construct. Your Companion can now have two
+specializations at a time. When your Companion is destroyed or you want to
+remodel it, you can rebuild it in a couple of days, with new specializations.
+
+---------------
+Otherworldly
+---------------
+
+* Requires: Worldly
+Gain one move from a playbook no one else is currently using.
+
+---------------
+Put to Better Use
+---------------
+
+When you are finished using a device made using Jury-Rig, you can
+dismantle it to choose one:
+
+• Gain 1-Charge
+
+• Give +2 armor forward to yourself or an ally within arm's reach
+
+• Immediately repair a damaged Gadget or other piece of equipment
+
+---------------
+Quickly, I must Make Preparations
+---------------
+
+When you work hard on modifying yourself and your gear for an hour or
+two, set your prep to 1. When you prepare for a day or longer, set your prep
+to 3. When your preparation pays off, spend 1 prep to give +1 to any roll,
+even if it isn't your roll. You can only spend one prep per roll.
+This replaces the Bolster special move for you.
