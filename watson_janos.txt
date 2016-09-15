@@ -1,0 +1,62 @@
+//CLASS
+
+Artificer
+
+//NAME
+
+Watson Janos
+
+//STATS
+
+STR:  8
+DEX: 13
+CON:  9
+INT: 16
+WIS: 15
+CHA: 12
+
+HP: 13
+DAMAGE: D8
+ARMOR: 1
+LOAD: 5/17 (9+STR)
+
+//LOOK
+
+Devious eyes, frizzy hair, burnt skin
+
+//RACE
+
+Human
+
+//ALIGNMENT
+
+Chaotic
+
+//BONDS
+
+- Watson knows a secret about Farley.
+  (Passionately hates mungus but puts up with them for personal benefit)
+
+- Watson was maimed by Mungus.
+
+- Mungus is Watson's personal assistant.
+
+- Bunson knows the secret of my inventions.
+  (I have never invented anything, all of my gadgets are  recovered and restored ancient technology)
+
+//GEAR
+
+- Engineering Tools (Hand, Close, 1 Weight)
+- Clockwork Crossbow and Quiver [3 ammo] (Near, 2 weight)
+- Protective Clothing (1 Armor, 1 Weight)
+- Adventuring Gear [5 uses] (1 Weight)
+
+
+//GADGETS
+
+- Etheric Emitter Glove
+- Clockwork Detector Wand
+- Etheric Matrix Mechanism
+- Hypnotic Projector Glasses
+
+

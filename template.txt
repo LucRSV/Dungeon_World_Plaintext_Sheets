@@ -1,0 +1,47 @@
+//CLASS
+
+...
+
+//NAME
+
+...
+
+//STATS
+
+STR: 00 
+DEX: 00
+CON: 00
+INT: 00
+WIS: 00
+CHA: 00
+
+HP: 00
+DAMAGE: D?
+ARMOR: 0
+LOAD: 0/9 (9+STR)
+
+//LOOK
+
+...
+
+//RACE
+
+...
+
+//ALIGNMENT
+
+...
+
+//BONDS
+
+- Lorem Ipsum Dolores Est
+
+- Lorep Ipsum Dolores Est
+
+//GEAR
+
+- Dagger (Hand, Close, 1 Weight)
+- Crossbow and Quiver [3 ammo] (Near, 2 weight)
+
+//EXTRA (Gadgets, clans, etc.)
+
