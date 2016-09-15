@@ -8,17 +8,22 @@
 
 //STATS
 
-STR: 00 
-DEX: 00
-CON: 00
-INT: 00
-WIS: 00
-CHA: 00
+STAT: VALUE | MODIFIER
 
-HP: 00
+STR: 00 | +0
+DEX: 00 | +0
+CON: 00 | +0
+INT: 00 | +0
+WIS: 00 | +0
+CHA: 00 | +0
+
+HP: 	00
 DAMAGE: D?
-ARMOR: 0
-LOAD: 0/9 (9+STR)
+ARMOR: 	0
+LOAD: 	0/9 (9+STR)
+
+XP:	0
+LEVEL: 	1
 
 //LOOK
 
