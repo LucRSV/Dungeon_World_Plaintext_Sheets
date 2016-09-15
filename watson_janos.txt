@@ -30,7 +30,7 @@ Human
 
 //ALIGNMENT
 
-Chaotic
+Chaotic - Use a Gadget in a new and surprising way.
 
 //BONDS
 
