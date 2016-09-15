@@ -8,7 +8,7 @@ Watson Janos
 
 //STATS
 
-STAT | VALUE | MODIFIER
+STAT: VALUE | MODIFIER
 
 STR:  8 | -1
 DEX: 13 | +1
